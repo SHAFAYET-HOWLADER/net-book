@@ -1,8 +1,8 @@
 <template>
-     <div class="navbar border-b border-[#d1d1d1] pb-4 pt-5 px-32" style="background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%)">
+     <div class="fixed top-0 w-full  z-40 navbar border-b border-[#d1d1d1] pb-4 pt-5 px-32" style="background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%)">
           <div class="navbar_area container mx-auto flex justify-between items-center">
               <div class="navbar_left flex items-center">
-                 <img class="cursor-pointer  mr-16" src="../images/logo.png">
+                 <img class="cursor-pointer  mr-16" src="../assets/images/logo_one.png">
                  <ul class="cursor-pointer  flex items-center">
                     <li class="cursor-pointer  font-inter font-medium text-sm pr-8">Home</li>
                     <li>

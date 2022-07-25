@@ -26,12 +26,12 @@
          </div>
          <div class="network_right_img flex items-center pl-44">
            <div class="relative mr-8">
-              <img  class="rounded-lg mr-9" src="../images/network_three.png" alt="network_img">
+              <img  class="rounded-lg mr-9" src="../assets/images/network_three.png" alt="network_img">
               <font-awesome-icon icon="fa-solid fa-play" class="absolute top-[170px] cursor-pointer left-28 text-btn_bg p-3 bg-white rounded-full"/>
            </div>
             <div> 
-            <img class="rounded-lg mb-9" src="../images/network_two.png" alt="network_img">
-             <img class="rounded-lg" src="../images/network_one.png" alt="network_img">
+            <img class="rounded-lg mb-9" src="../assets/images/network_two.png" alt="network_img">
+             <img class="rounded-lg" src="../assets/images/network_one.png" alt="network_img">
              </div>
          </div>
       </div>

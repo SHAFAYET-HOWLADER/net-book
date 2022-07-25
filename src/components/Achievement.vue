@@ -7,7 +7,7 @@
                    <span class="text-xl font-inter text-[#0A093D] font-medium">4.8 Rating</span>
                    </div>
                <div class="flex items-center">        
-                 <img class="ml-[-15px]" src="../images/people.png" alt="people_img">
+                 <img class="ml-[-15px]" src="../assets/images/people.png" alt="people_img">
                 <p class="text-sm font-inter text-[#5D5B70] font-bold py-10"><span class="text-sm font-inter text-btn_bg font-bold">+836k</span> Members</p>
                </div>
                <p class="text-sm font-inter text-[#8C8C8C] font-normal pb-10 leading-6 w-[274px]">More than 2 billion we people over countries use socibooks we to stay in touch with friends.</p>

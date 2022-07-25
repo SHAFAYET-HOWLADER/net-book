@@ -50,7 +50,7 @@
     
            <p class="font-inter text-[#E7E7E7] font-normal text-base">Besnik Creative Agency.</p>
    
-        <img src="../images/logo (1).png" alt="logo_img" />
+        <img src="../assets/images/logo_two.png" alt="logo_img" />
         <div class="social_icon">
             <font-awesome-icon icon="fa-brands fa-twitter" class="p-3 ml-2 rounded-full bg-white"/>
             <font-awesome-icon icon="fa-brands fa-instagram" class="p-3 ml-2 rounded-full bg-white"/>

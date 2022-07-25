@@ -1,5 +1,5 @@
 <template>
-   <div class="banner pb-20 pt-16" style="background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%)">
+   <div class="banner pb-20 pt-24" style="background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%)">
        <div class="banner_content flex  mx-auto items-center px-32">
         <div class="banner_left">
       <button class="bg-[#F7FBFF] font-inter font-medium text-sm text-btn_bg py-3 px-7 rounded-lg">Netbook community</button>
@@ -11,7 +11,7 @@
       </div>
       </div>
       <div class="banner_right">
-         <img src="../images/banner.png" alt="banner_img">
+         <img src="../assets/images/banner.png" alt="banner_img">
       </div>
        </div>
    </div>
